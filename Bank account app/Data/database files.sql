@@ -1,4 +1,3 @@
--- Create Database BankApp;
 use bankApp;
 Create Table accounts(
 	AccountNumber varchar(36) Primary Key,
