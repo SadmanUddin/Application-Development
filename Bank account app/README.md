@@ -63,5 +63,5 @@ How to Run
 	1.	Clone the repository
 	2.	Open the solution in Visual Studio
 	3.	Install the NuGet package: MySql.Data
-  4.	Ensure MySQL server is running
+  	4.Ensure MySQL server is running
 	5.	Run the application
